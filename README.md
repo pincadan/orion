@@ -8,9 +8,13 @@ It supports multiple scanning techniques, service detection, and an aesthetic co
 Features:
 
 1.Multi-Scan Support: TCP Connect, SYN (Stealth), and UDP scans.
+
 2.Service Detection: Fetch banners of open ports.
+
 3.Threaded Scanning: Lightning-fast performance using concurrent threads.
+
 4.User-Friendly: Colored output, progress tracking, and error handling.
+
 5.Flexible Targeting: Scan single IPs, hostnames, or custom port ranges.
 
 Usage:
